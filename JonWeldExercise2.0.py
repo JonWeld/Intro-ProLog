@@ -1,0 +1,4 @@
+print "name = Jon Weld"
+print "date = 9,15,22"
+print "question = at what size of a project should you start using version management software? why?"
+print "answer = I believe that when you first start, you should start using a version management software because every change you make should either be logged or documented as you go along, plus each line of code is equally as important as one another and should be treated as such. If one character is off, it throws off the whole program. So in the scenario in which you made a change and one of the lines of code is off, you can go back to a previous save and recover or change anything that was wrong with it. If anything you should be backing it up with every line of code you make so in case you are in the scenario in which you have to narrow the problem down manually. But if you're good with code, you can just type in a little line of code and have it do that for you."
