@@ -1,0 +1,13 @@
+      Exercise 6.6
+      
+      There are a lot of strings in that list and there is just so many different purposes for them as well. But there were a couple of them that kind of stood out to me. They happen to be str.removeprefix and str.removesuffix kind of stand out  to me because it can really come in handy when you only want specific text in an output. An example that utilizes them are when you are looking to output certain phrases. Below are the brief demonstrations. 
+>>>'TestHook'.removeprefix('Test')
+'Hook'
+>>> 'BaseTestCase'.removeprefix('Test')
+'BaseTestCase'
+      
+>>>'MiscTests'.removesuffix('Tests')
+'Misc'
+>>> 'TmpDirMixin'.removesuffix('Tests')
+'TmpDirMixin'
+      
